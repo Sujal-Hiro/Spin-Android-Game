@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 69e7fa11022570647bef0a85d41097a5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Blocktastic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c70f5dcaa649847448ecd2321b0d38de, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
